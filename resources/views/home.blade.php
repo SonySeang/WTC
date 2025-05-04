@@ -32,6 +32,10 @@
                                 <a class="nav-link" href="{{ url ('/setting') }}">
                                     <span>Settings</span></a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ url ('/feature') }}">
+                                    <span>feature</span></a>
+                            </li>
                         </ul>
                     </div>
                     <div class="card-footer text-center py-2">
